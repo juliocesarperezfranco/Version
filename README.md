@@ -1,2 +1,2 @@
 # Version
-Simple version utilities for C++
+A simple versioning library for C++.
